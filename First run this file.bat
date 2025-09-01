@@ -1,0 +1,1 @@
+start cmd.exe /c python -m streamlit run FTP4.py
